@@ -9,7 +9,7 @@
         echo "<p>Nombre: " . $nombre . "</p>";
         echo "<p>Apellido: " . $apellido . "</p>";
         echo "<p>Edad :" . $edad . "</p>";
-        echo "HOla";
+        echo "HOla amigo ";
     }
 
 
