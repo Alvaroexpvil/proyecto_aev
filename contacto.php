@@ -1,12 +1,10 @@
 <?php
 
 
-    if($_POST){
-        $nombre = $_POST['nombre'];
+    if($_POST){ 
         $apellido = $_POST['apellido'];
         $edad = $_POST['edad'];
         
-        echo "<p>Nombre: " . $nombre . "</p>";
         echo "<p>Apellido: " . $apellido . "</p>";
         echo "<p>Edad :" . $edad . "</p>";
     }
